@@ -43,7 +43,7 @@
 	// LOGIKA / LOGICAL
 	// &&, ||, !
 
-
+kljkhkjhljhhk
 
 
 ?>
